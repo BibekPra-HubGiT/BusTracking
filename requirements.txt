@@ -1,0 +1,7 @@
+#PS Z:\ReactProject> cd Backend
+#PS Z:\ReactProject\Backend> ./newenv/Scripts/activate
+#(newenv) PS Z:\ReactProject\Backend> python app.py
+mysql-connector-python
+bcrypt
+flask-cors
+geopy
